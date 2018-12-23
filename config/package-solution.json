@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "tryout-client-side-solution",
+    "id": "08c9a632-6c86-47f7-914e-0d24e1b5c73f",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true
+  },
+  "paths": {
+    "zippedPackage": "solution/tryout.sppkg"
+  }
+}

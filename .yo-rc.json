@@ -1,0 +1,17 @@
+{
+  "@pnp/generator-spfx": {
+    "framework": "react",
+    "pnpFramework": "react",
+    "pnp-libraries": []
+  },
+  "@microsoft/generator-sharepoint": {
+    "framework": "react",
+    "isCreatingSolution": true,
+    "environment": "spo",
+    "version": "1.7.1",
+    "libraryName": "tryout",
+    "libraryId": "08c9a632-6c86-47f7-914e-0d24e1b5c73f",
+    "packageManager": "npm",
+    "componentType": "webpart"
+  }
+}
